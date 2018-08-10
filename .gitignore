@@ -3,3 +3,4 @@ vendor
 app.log
 composer.phar
 composer.lock
+recover.log
