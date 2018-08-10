@@ -1,0 +1,5 @@
+.env
+vendor
+app.log
+composer.phar
+composer.lock
